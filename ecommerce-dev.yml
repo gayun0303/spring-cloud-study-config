@@ -1,0 +1,7 @@
+token:
+  expiration-time: 86400001
+  secret: fdjkslajewqrefrdskjfdkjmdjeqrewsdhjkehurheuifgbsvhjarbkejklefmgklerioreqtreytrmnvbncxbnnhjdfmnbv
+  name: dev
+
+gateway:
+  ip: 172.30.1.63

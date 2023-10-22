@@ -1,6 +1,7 @@
 token:
-  expiration-time: 86400000
+  expiration-time: 86400001
   secret: fdjkslajewqrefrdskjfdkjmdjeqrewsdhjkehurheuifgbsvhjarbkejklefmgklerioreqtreytrmnvbncxbnnhjdfmnbv
+  name: default-ecommerce
 
 gateway:
   ip: 172.30.1.38

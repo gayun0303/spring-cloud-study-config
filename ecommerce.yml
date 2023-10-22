@@ -1,5 +1,5 @@
 token:
-  expiration-time: 86400001
+  expiration-time: 86400000
   secret: fdjkslajewqrefrdskjfdkjmdjeqrewsdhjkehurheuifgbsvhjarbkejklefmgklerioreqtreytrmnvbncxbnnhjdfmnbv
   name: default-ecommerce
 
